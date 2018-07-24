@@ -4,3 +4,5 @@ a=int(input())
         rem=i%2
         if(rem!=0):
             print(i)
+
+            
