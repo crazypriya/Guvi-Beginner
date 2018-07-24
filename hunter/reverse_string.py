@@ -8,3 +8,4 @@ r = input()
 t=reverse(s)
 u=reverse(r)
 print (t+" "+u)
+
