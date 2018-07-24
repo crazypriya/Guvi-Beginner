@@ -8,3 +8,5 @@ a=int(input())
         print("yes")
     else:
         print("no")
+
+        
